@@ -1,0 +1,11 @@
+.single-meal {
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+  border-radius: 100px;
+  box-shadow: 5px 5px 15px gray;
+}
+.single-meal img {
+  width: 400px;
+  height: 300px;
+}

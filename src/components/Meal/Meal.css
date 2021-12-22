@@ -1,0 +1,13 @@
+.meal-details {
+  box-shadow: 5px 5px 15px gray;
+  border-radius: 25px;
+  padding: 20px 0;
+}
+.meal-details button {
+  cursor: pointer;
+  border: 1px solid skyblue;
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  font-weight: bold;
+}
